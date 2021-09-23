@@ -1,0 +1,15 @@
+body{
+  margin:0
+}
+.container{
+  background-color: blueviolet;
+  padding:50px 0;
+}
+.material{
+  border:3px solid red ;
+  width:80%;
+  margin:0 auto;
+}
+.sub-material{
+  width:60%;
+}
